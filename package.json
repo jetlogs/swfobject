@@ -1,0 +1,24 @@
+{
+  "name": "@englishcentral/swfobject-module",
+  "version": "0.0.1",
+  "description": "swfobject library",
+  "main": "./swfobject/swfobject.js",
+  "types": "./types/index.d.ts",
+  "scripts": {
+    "build": "echo \"Error: no build specified\" && exit 1",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jetlogs/swfobject.git"
+  },
+  "keywords": [
+    "swfobject"
+  ],
+  "author": "Jet Fontanilla",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jetlogs/swfobject/issues"
+  },
+  "homepage": "https://github.com/swfobject/swfobject/blob/master/README.rdoc"
+}
